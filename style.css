@@ -43,7 +43,8 @@ body * {
 /*div é um elemento block e img é um elemento inline(uma linha)*/
 
 #conteiner {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto;
   padding: 0 24px;
 }
